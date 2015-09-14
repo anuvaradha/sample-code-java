@@ -3,6 +3,7 @@ net\authorize\sample\CustomerProfiles\CreateCustomerProfilePaymentProfile.class
 net\authorize\sample\TransactionReporting\GetUnsettledTransactionList.class
 net\authorize\sample\RecurringBilling\GetSubscriptionStatus.class
 net\authorize\sample\CustomerProfiles\DeleteCustomerShippingAddress.class
+net\authorize\sample\TransactionReporting\GetSettledBatchList.class
 net\authorize\sample\SampleCode.class
 net\authorize\sample\PaymentTransactions\CreditBankAccount.class
 net\authorize\sample\CustomerProfiles\DeleteCustomerProfile.class
@@ -34,6 +35,5 @@ net\authorize\sample\PaymentTransactions\AuthorizeCreditCard.class
 net\authorize\sample\CustomerProfiles\CreateCustomerShippingAddress.class
 net\authorize\sample\PaymentTransactions\ChargeCreditCard.class
 net\authorize\sample\CustomerProfiles\GetHostedProfilePage.class
-TransactionReporting\GetSettledBatchList.class
 net\authorize\sample\CustomerProfiles\DeleteCustomerPaymentProfile.class
 net\authorize\sample\CustomerProfiles\ValidateCustomerPaymentProfile.class

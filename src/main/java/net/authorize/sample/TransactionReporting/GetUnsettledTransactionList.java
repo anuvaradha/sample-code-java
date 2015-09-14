@@ -1,9 +1,7 @@
 package net.authorize.sample.TransactionReporting;
 
-
 import net.authorize.Environment;
 import net.authorize.api.contract.v1.*;
-
 import net.authorize.api.controller.GetSettledBatchListController;
 import net.authorize.api.controller.GetUnsettledTransactionListController;
 import net.authorize.api.controller.base.ApiOperationBase;

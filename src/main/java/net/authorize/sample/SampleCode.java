@@ -90,7 +90,7 @@ public class SampleCode {
         System.out.println("    UpdateSubscription");
         System.out.println("    GetListSubscription");
         System.out.println("    GetBatchStatistics");
-        //System.out.println("    GetSettledBatchList");
+        System.out.println("    GetSettledBatchList");
         System.out.println("    GetTransactionList");
         System.out.println("    GetUnsettledTransactionList");
         System.out.println("    GetTransactionDetails");
@@ -174,9 +174,9 @@ public class SampleCode {
             case "GetBatchStatistics":
                 GetBatchStatistics.run(apiLoginId, transactionKey);
                 break;
-            /*case "GetSettledBatchList":
+            case "GetSettledBatchList":
                 GetSettledBatchList.run(apiLoginId, transactionKey);
-                break;*/
+                break;
             case "GetTransactionList":
                 GetTransactionList.run(apiLoginId, transactionKey);
                 break;
